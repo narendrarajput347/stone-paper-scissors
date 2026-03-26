@@ -3,7 +3,7 @@
 This is a simple Stone Paper Scissors game developed using programming logic.
 
 ## Features
-- User vs Computer gameplay
+- User vs another User gameplay
 - Random choice generation
 - Simple and interactive
 
